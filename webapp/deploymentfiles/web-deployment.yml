@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: muralialakuntla3/webapp
+          image: saivenkat98/k8-fe:XYZ
           imagePullPolicy: Always
           ports:
             - containerPort: 80
